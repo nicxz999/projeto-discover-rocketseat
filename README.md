@@ -1,1 +1,11 @@
-<h1 align="center"> DevLinks </h1>
+
+# DevLinks
+
+Um projeto desenvolvido para o curso Discover da Rocketseat. 🚀
+
+
+## 🚀 Tecnologias
+
+**Front-end:** HTML, CSS e Javascript
+
+
